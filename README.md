@@ -15,5 +15,5 @@ based on which users can plan their travel.
 The software product to be developed is the Online Flight Tracking System (OFTS), the airline tracking website is an application stored in the Airport Authority server. The purpose of the website is to resolve the client to allow website users to perform tasks related to booking airline flight. users are only allowed to search for available flights. Member users have the right to search for available flights, admin can create a plan and delete a flight and to edit their member information. admin is required to login in to their account prior to flight booking.
 
 # 1.3 References: 
-Online flight booking srs document .
+Online flight booking srs document.
 Flight Planning and Management System Software Requirements Specification .
